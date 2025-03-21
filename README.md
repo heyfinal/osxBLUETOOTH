@@ -67,4 +67,4 @@ Developed on March 20, 2025, with a nod to the chaotic genius of Rick Sanchez.
 
 License
 
-This project is released under the MIT License. See the LICENSE file for details.
+This project is not licenced & offers not warrenty.
